@@ -21,3 +21,4 @@ The modules are:
 
 - [Dagger Hilt](https://developer.android.com/training/dependency-injection/hilt-android) : For dependency injection
 - [Navigation 3](https://developer.android.com/guide/navigation/navigation-3) : For navigation between screens
+- [Material 3](https://m3.material.io/): As the design system library
