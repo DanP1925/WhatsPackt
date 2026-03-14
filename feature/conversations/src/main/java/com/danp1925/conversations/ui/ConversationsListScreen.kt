@@ -3,6 +3,8 @@ package com.danp1925.conversations.ui
 import androidx.compose.runtime.Composable
 
 @Composable
-fun ConversationsListScreen() {
+fun ConversationsListScreen(
+    onConversationClick: (String) -> Unit
+) {
 
 }
